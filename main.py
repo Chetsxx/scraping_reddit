@@ -18,7 +18,7 @@ reddit = praw.Reddit(
     username=username,
 )
 
-data= []
+data = []
 
 subreddit = reddit.subreddit("LearnJapanese")
 
